@@ -51,7 +51,7 @@ python src/training/train.py
 ### Evaluation / Testing
 
 ```bash
-python src/training/test.py --model experiments/exp_train/final/best_model.pth
+python src/training/test.py 
 ```
 
 ## Project Structure
