@@ -39,6 +39,15 @@ pip install -r requirements.txt
   You can browse and download all feature files here:  
   [https://huggingface.co/datasets/nikaido99999/MOSAIC](https://huggingface.co/datasets/nikaido99999/MOSAIC)
 
+## Data Disclaimer
+
+In accordance with HGMD licensing restrictions, all HGMD-derived variants have been completely removed from the publicly released test dataset in this repository.
+
+- The remaining data include only:
+
+- Publicly available variants (ClinVar),
+
+Users who require access to HGMD-derived variants must obtain the appropriate HGMD license and regenerate those variants following the procedures described in the paper.
 
 ## Usage
 
