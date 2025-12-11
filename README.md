@@ -1,6 +1,6 @@
 # MOSAIC
 
-A comprehensive deep learning framework for non-canonical SAV classification, integrating sequence,Functional annotation, and global contextual features.
+A comprehensive deep learning framework for non-canonical SAV classification, integrating sequence features and functional annotations.
 
 ## Features
 
